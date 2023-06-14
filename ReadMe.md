@@ -14,3 +14,18 @@ Implementation details:
 - Simple Orbit Camera
 
 Math and data : [Bézier Curves and Surfaces: the Utah Teapot](https://www.scratchapixel.com/lessons/geometry/bezier-curve-rendering-utah-teapot/bezier-surface.html)
+
+## Basic Material & Shader
+
+![](images/basic_material.gif)
+
+Built in Render pipeline with:
+
+- Albedo Texture
+- Unlit Material
+- Normal as Color Shader
+- Phong Lighting Shader
+- Rotate Directional Light
+
+
+## Shader Graph
