@@ -15,6 +15,9 @@ Implementation details:
 
 Math and data : [Bézier Curves and Surfaces: the Utah Teapot](https://www.scratchapixel.com/lessons/geometry/bezier-curve-rendering-utah-teapot/bezier-surface.html)
 
+[UtahTeapot](UtahTeapot)
+
+
 ## Basic Material & Shader
 
 ![](images/basic_material.gif)
@@ -27,5 +30,5 @@ Built in Render pipeline with:
 - Phong Lighting Shader
 - Rotate Directional Light
 
+[UnityMaterials](UnityMaterials)
 
-## Shader Graph
